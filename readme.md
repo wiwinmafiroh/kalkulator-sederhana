@@ -26,7 +26,9 @@ Implementasi Rancangan User Interface (UI) Kalkulator Sederhana ke dalam kode pr
    * Microsoft Edge (https://www.microsoft.com/id-id/edge)
 
 4. Jika ingin menjadikan repo Kalulator Sederhana sebagai Remote atau menambahkan Kalkulator Sederhana di komputer, anda dapat melakukan clone repository dan simpan pada folder htdocs.
-   ```git clone https://github.com/wiwinmafiroh/kalkulator-sederhana.git
+   ```git 
+   git clone https://github.com/wiwinmafiroh/kalkulator-sederhana.git
+   ```
 
 5. Buka XAMPP Control Panel, dan klik button star Apache
 ![Gambar XAMPP Control Panel](img/img-readme/xampp-readme.png)
