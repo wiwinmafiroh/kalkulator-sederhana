@@ -34,13 +34,21 @@ Implementasi Rancangan User Interface (UI) Kalkulator Sederhana ke dalam kode pr
 6. Buka web browser, dan jalankan Aplikasi Kalkulator Sederhana.
 
 # **Usage**
-1. Melakukan Operasi Aritmatika (Pertambahan) ![Gambar Operasi Aritmatika Tambah](img/img-readme/usage-tambah.jpg)
+1. Melakukan Operasi Aritmatika (Pertambahan)
 
-2. Melakukan Operasi Aritmatika (Pengurangan) ![Gambar Operasi Aritmatika Kurang](img/img-readme/usage-kurang.jpg)
+![Gambar Operasi Aritmatika Tambah](img/img-readme/usage-tambah.jpg)
 
-3. Melakukan Operasi Aritmatika (Perkalian) ![Gambar Operasi Aritmatika Kali](img/img-readme/usage-kali.jpg)
+2. Melakukan Operasi Aritmatika (Pengurangan)
 
-4. Melakukan Operasi Aritmatika (Pembagian) ![Gambar Operasi Aritmatika Bagi](img/img-readme/usage-bagi.jpg)
+![Gambar Operasi Aritmatika Kurang](img/img-readme/usage-kurang.jpg)
+
+3. Melakukan Operasi Aritmatika (Perkalian)
+
+![Gambar Operasi Aritmatika Kali](img/img-readme/usage-kali.jpg)
+
+4. Melakukan Operasi Aritmatika (Pembagian)
+
+![Gambar Operasi Aritmatika Bagi](img/img-readme/usage-bagi.jpg)
 
 # **Credits**
 > Wiwin Mafiroh
