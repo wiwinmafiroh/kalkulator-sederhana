@@ -38,19 +38,13 @@ Implementasi Rancangan User Interface (UI) Kalkulator Sederhana ke dalam kode pr
 
 ![Gambar Operasi Aritmatika Tambah](img/img-readme/usage-tambah.jpg)
 
-
-
 2. Melakukan Operasi Aritmatika (Pengurangan)
 
 ![Gambar Operasi Aritmatika Kurang](img/img-readme/usage-kurang.jpg)
 
-
-
 3. Melakukan Operasi Aritmatika (Perkalian)
 
 ![Gambar Operasi Aritmatika Kali](img/img-readme/usage-kali.jpg)
-
-
 
 4. Melakukan Operasi Aritmatika (Pembagian)
 
