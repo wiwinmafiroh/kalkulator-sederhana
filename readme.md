@@ -47,6 +47,7 @@ Implementasi Rancangan User Interface (UI) Kalkulator Sederhana ke dalam kode pr
 ![Gambar Operasi Aritmatika Bagi](img/img-readme/usage-bagi.png)
 
 5. Clear TextBox
+
 ![Gambar Klik Button Clear](img/img-readme/usage-clear.png)
 
 # **Credits**
