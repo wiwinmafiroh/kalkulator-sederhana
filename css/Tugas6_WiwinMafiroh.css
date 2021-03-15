@@ -1,0 +1,62 @@
+:root {
+  font-size: 16px;
+}
+
+body {
+  background-color: #F6F9FC;
+  font-family: sans-serif;
+}
+
+.kotak {
+  width: 455px;
+  height: 250px;
+  box-sizing: border-box;
+  margin: 40px auto;
+  padding: 10px;
+  font-size: 14px;
+}
+
+.kotak-judul {
+  margin: 0 auto -5px;
+  text-align: center;
+  width: 380px;
+  font-size: 1em;
+}
+
+.kotak-form {
+  background-color: #DEE8F4;
+  width: 380px;
+  height: 265px;
+  padding: 1em 1.8em;
+  font-size: 1rem;
+  border: 2px solid black;
+}
+
+.kotak-form label,
+.kotak-form input,
+.kotak-form button {
+  display: inline-block;
+}
+
+.kotak-form label {
+  margin-bottom: 5px;
+}
+
+.kotak-form input {
+  margin-bottom: 15px;
+  font-size: .9rem;
+  height: 2em;
+  width: 25.2em;
+}
+
+.kotak-form .hasil {
+  font-weight: 700;
+  text-align: center;
+}
+
+.kotak-form button {
+  width: 2.60em;
+  height: 1.5em;
+  margin: 0 10px 15px 0;
+  font-size: 1.5rem;
+}
