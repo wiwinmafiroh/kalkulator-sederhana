@@ -39,7 +39,7 @@ function pembagian($bil1, $bil2) // $bil1 dan $bil2 merupakan parameter untuk me
   <title>Tugas 6 - Wiwin Mafiroh</title>
 
   <!-- FILE CSS -->
-  <link rel="stylesheet" href="Tugas6_WiwinMafiroh.css">
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
